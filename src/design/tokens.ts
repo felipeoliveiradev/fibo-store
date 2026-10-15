@@ -1,0 +1,10 @@
+export const ink = '#0a0a0a'
+export const paper = '#ffffff'
+export const red = '#ff3b30'
+export const pink = '#ff2d8a'
+export const lime = '#c8ff00'
+export const chalk = '#ffffff'
+export const ash = '#9a9a9a'
+export const muted = ash
+export const line = '1px solid rgba(255,255,255,0.16)'
+export const face = 'Geist, Helvetica, sans-serif'
