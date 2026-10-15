@@ -17,9 +17,9 @@ A full mini-commerce built only with [FiboUI](https://www.npmjs.com/package/fibo
 layout, theme, motion, and signals as method calls. **No JSX in the product UI.**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)](./tsconfig.json)
-[![FiboUI](https://img.shields.io/badge/FiboUI-2.4-ff2d8a?style=flat-square)](https://www.npmjs.com/package/fiboui)
+[![FiboUI](https://img.shields.io/badge/FiboUI-2.4.4-ff2d8a?style=flat-square)](https://www.npmjs.com/package/fiboui)
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev)
-[![License](https://img.shields.io/badge/license-private-0a0a0a?style=flat-square)](#)
+[![License](https://img.shields.io/badge/license-MIT-0a0a0a?style=flat-square)](#)
 
 <br />
 
@@ -153,7 +153,7 @@ npm run dev
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/FiboUI-2.4.3-ff2d8a?style=for-the-badge" alt="FiboUI" />
+  <img src="https://img.shields.io/badge/FiboUI-2.4.4-ff2d8a?style=for-the-badge" alt="FiboUI" />
   <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Vite-5.4-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
