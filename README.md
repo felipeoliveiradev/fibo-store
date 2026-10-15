@@ -28,6 +28,8 @@ npm install && npm run dev
 # → http://127.0.0.1:5180
 ```
 
+**Live:** [fiboui-store.vercel.app](https://fiboui-store.vercel.app)
+
 </div>
 
 ---
